@@ -1,0 +1,32 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmfDQdmtpsdcQHCVllvx6-o3cxS3vANCQH6YLxTVjBCn6IeJmCQ);
+	font-family: Helvetica, sans-serif:;
+	color: #4F4F4F;
+	font-weight: bolder;
+	padding: 170px;
+	text-align: center;
+
+}
+
+hr {
+	font-weight: bolder;
+}
+
+a {
+	color: #4F4F4F;
+	text-decoration: none;
+
+}
+
+
+
+footer {
+	margin: 175px;
+	font-size: 20px;
+	padding-left: 25px;
+}
