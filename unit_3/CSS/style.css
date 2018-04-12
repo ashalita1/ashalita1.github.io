@@ -4,29 +4,44 @@
 }
 
 body {
-	background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmfDQdmtpsdcQHCVllvx6-o3cxS3vANCQH6YLxTVjBCn6IeJmCQ);
-	font-family: Helvetica, sans-serif:;
 	color: #4F4F4F;
 	font-weight: bolder;
-	padding: 170px;
-	text-align: center;
+	font-family: Lucida Sans Unicode;
 
 }
 
 hr {
 	font-weight: bolder;
+	border-width: 2px;
+	border-style: solid;
+   
 }
 
-a {
-	color: #4F4F4F;
-	text-decoration: none;
+h1{
+	text-align: center;
+	font-size: 1.5rem, 24px;
+	color: #80121b;
 
 }
 
+h2 {
+	font-size: 1.30 rem, 21px;
+	color: #80121b;
 
+}
 
-footer {
-	margin: 175px;
-	font-size: 20px;
-	padding-left: 25px;
+h3 {
+	font-size:1rem, 16px;
+	color:#80121b;
+}
+
+p {
+	font-size: 0.9375rem, 15px;
+	line-height: 1.5em;
+	margin: 2em;
+}
+
+ul, ol {
+
+	padding-left: 20px;
 }
