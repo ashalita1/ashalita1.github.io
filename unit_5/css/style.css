@@ -47,6 +47,7 @@ ul, ol {
 }
 
 
+
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -64,4 +65,10 @@ section {
 article {
 	background-color: #E89C6C
 }
+
+#timelineLine {
+
+
+}
+
 
